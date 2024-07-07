@@ -68,5 +68,12 @@ P.S. после  подготовки к разворачиванию, а име
 
 ![image](https://github.com/Sasha300578/php_css_html/assets/113348429/ea7681e8-21d8-435c-850c-867c07daa35b)
 
+![image](https://github.com/Sasha300578/php_css_html/assets/113348429/9c3eed6a-1b84-40af-b788-839e8ba8908d)
+
+![image](https://github.com/Sasha300578/php_css_html/assets/113348429/dee524be-82ac-4f11-ae8d-d98f90fd61c0)
+
+![image](https://github.com/Sasha300578/php_css_html/assets/113348429/9165f663-8619-4533-9673-6585f1011318)
+
+
 
 

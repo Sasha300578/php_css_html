@@ -64,4 +64,9 @@ P.S. после  подготовки к разворачиванию, а име
 
 <img width="563" alt="image" src="https://github.com/Sasha300578/php_css_html/assets/113348429/077d37bf-c705-4bbb-bbf7-04f257beb164">
 
+![image](https://github.com/Sasha300578/php_css_html/assets/113348429/019142e4-1226-4f5c-8281-ffaa8f7c4d1d)
+
+![image](https://github.com/Sasha300578/php_css_html/assets/113348429/ea7681e8-21d8-435c-850c-867c07daa35b)
+
+
 
